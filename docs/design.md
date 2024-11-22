@@ -285,3 +285,4 @@ en el repositorio comunitario.
 
 - Socialización y realimentación de la sesión 4.
 - Actividad de cierre del curso.
+
