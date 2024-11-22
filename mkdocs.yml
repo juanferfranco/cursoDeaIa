@@ -1,0 +1,28 @@
+site_name: Diseño de experiencias de aprendizaje para el análisis, la automatización y la 
+           toma de decisiones usando tecnologías emergentes.
+nav: 
+  - Introducción: index.md
+  - Diseño del curso: design.md
+  - Trayecto de actividades: trayecto.md
+  - Recursos: recursos.md
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Cambiarse al modo claro
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiarse al modo oscuro
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+   - glightbox
