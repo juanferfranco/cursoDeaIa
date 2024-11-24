@@ -281,26 +281,26 @@ Serán dos entregables:
 1. Describe y justifica el problema que abordarás en el diseño de tu experiencia 
    de aprendizaje respondiendo a las siguientes preguntas:
 
-* ¿Cuál curso seleccionarás y por qué?
-* ¿Cuál será el problema que abordarás para este curso?
-* ¿Cuál crees que será la duración y alcance de tu experiencia de aprendizaje?
-* Explica ¿Cómo se alineará la experiencia de aprendizaje a los resultados de aprendizaje 
-  del curso?
-* Explica ¿Qué tan pertinente es el problema y las habilidades que desarrollarán tus 
-  estudiantes con la experiencia en relación a las tendencia y al contexto profesional
-  de tu programa?
-* Explica ¿Por qué piensas que es adecuado incorporar ciertas tecnologías 
-  emergentes?
-* Explica ¿Cómo incorporaste las recomendaciones de tus compañeros en la definición 
-  de tu reto?
+    * ¿Cuál curso seleccionarás y por qué?
+    * ¿Cuál será el problema que abordarás para este curso?
+    * ¿Cuál crees que será la duración y alcance de tu experiencia de aprendizaje?
+    * Explica ¿Cómo se alineará la experiencia de aprendizaje a los resultados de aprendizaje 
+    del curso?
+    * Explica ¿Qué tan pertinente es el problema y las habilidades que desarrollarán tus 
+    estudiantes con la experiencia en relación a las tendencia y al contexto profesional
+    de tu programa?
+    * Explica ¿Por qué piensas que es adecuado incorporar ciertas tecnologías 
+    emergentes?
+    * Explica ¿Cómo incorporaste las recomendaciones de tus compañeros en la definición 
+    de tu reto?
 
 2. Vas a comenzar la fase de indagación del marco CBL:
 
-* Formula preguntas guía para el RETO que definiste. Estas preguntas buscan que puedas 
-  tomar decisiones de diseño para el curso de manera informada y reflexiva. Estas preguntas 
-  guiarán tu proceso de búsqueda y aprendizaje de los conceptos que necesitarás para 
-  abordar el diseño y construcción de tu experiencia.
-* Inicia a buscar recursos guía para abordar esas preguntas.
+    * Formula preguntas guía para el RETO que definiste. Estas preguntas buscan que puedas 
+    tomar decisiones de diseño para el curso de manera informada y reflexiva. Estas preguntas 
+    guiarán tu proceso de búsqueda y aprendizaje de los conceptos que necesitarás para 
+    abordar el diseño y construcción de tu experiencia.
+    * Inicia a buscar recursos guía para abordar esas preguntas.
 
 !!! warning "EN CONSTRUCCIÓN"
 
