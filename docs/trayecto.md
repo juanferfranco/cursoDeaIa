@@ -223,12 +223,7 @@ Ahora te pediré que profundices en esta pregunta: ¿Cuáles es la diferencia en
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGU1vzdjMfI?si=JQIgufxn-A_3-rhB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* Volvamos a tu curso. Piensa en esto. Uno podría pensar que se requieren dos tipo de habilidades, por ahora, para trabajar 
-  con ML. Una habilidad sería construir el modelo y la otra habilidad sería usar el modelo para tomar decisiones. Mira, 
-  ambas cosas son fundamentales porque la primera permite que puedas realizar con más confianza lo segundo. En este punto 
-  puede ser prematuro responder lo siguiente, pero vamos a intentarlo. ¿Crees que sea posible que tus estudiantes 
-  construyan un modelo y luego lo usen para tomar decisiones? Justifica por qué crees que si o no. Piensa en esto ¿Qué 
-  necesitarían saber mis estudiantes y yo?
+* Entonces ¿Qué es el modelo y qué es el algoritmo?
 
 Ahora quiero que puedas hacerte a una idea de la ADMINISTRACIÓN necesaria que puede llegar a requerir una 
 implementación de machine learning.
@@ -314,9 +309,11 @@ consolidación.
 
 ### Entregables
 
-Esta vez será solo un entregable: S1E1.
+Para esta sesión tenemos solo uno: 
 
-Los items que debes trabajar para este entregable son estos:
+* S1E1: definición y justificación del problema.
+
+Los criterios para este entregable son estos:
 
 * Identifica y describe detalladamente el problema que abordarás en uno de tus cursos.
 * Justifica cómo por qué este problema es relevante para el curso, el programa y 
@@ -332,19 +329,19 @@ del curso?
 * Explica ¿Qué tan pertinente es el problema y las habilidades que desarrollarán tus 
 estudiantes con la experiencia en relación a las tendencias y al contexto profesional
 de tu programa?
-* Explica ¿Por qué piensas que es adecuado incorporar la tecnología emergentes que seleccionaste?
+* Explica ¿Por qué piensas que es adecuado incorporar la tecnología emergente que seleccionaste?
 * Explica ¿Cómo incorporaste las recomendaciones de tus compañeros en la definición 
 de tu reto?
 
 ## Sesión 2
 
-Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 8 horas serán de trabajo independiente.
+==Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 8 horas serán de trabajo independiente.==
 
 ### Actividades
 
 #### Actividad 1
 
-En esta actividad vas a socialización y recibir realimentación por parte de todos 
+En esta actividad vas a socializar y recibir realimentación por parte de todos 
 tus compañeros del entregable de la sesión 1.
 
 #### Actividad 2
@@ -354,8 +351,8 @@ En esta actividad explorarás qué es el aprendizaje robusto.
 Considera lo siguiente antes de ver el video:
 
 El aprendizaje robusto es aquel que crea redes duraderas, profundas y transferibles 
-de conocimiento, formando una base sólida para el aprendizaje futuro, la adaptación y 
-la aplicación a nuevos desafíos y oportunidades.
+de conocimiento, formando una base sólida para el **aprendizaje futuro**, **la adaptación** y 
+**la aplicación** a nuevos desafíos y oportunidades.
 
 * Presta especial atención en el video al mecanismo que usa el cerebro para 
 fomentar un aprendizaje robusto.
@@ -370,26 +367,25 @@ Ahora piensa en esto:
 * ¿Por qué puede ser complejo diseñar experiencias de aprendizaje que fomenten el aprendizaje 
 robusto de cada uno de tus estudiantes?
 * La pregunta anterior no es para desanimarte, más bien es para lanzarte un reto. ¿Cómo podrías 
-lograr que la experiencia de aprendizaje sea personalizada para cada estudiante?
+lograr que la experiencia de **aprendizaje sea personalizada** para cada estudiante?
 
 #### Actividad 3
 
-En esta actividad explorarás cómo diseñar experiencias que fomenten el aprendizaje robusto.
+En esta actividad explorarás **cómo diseñar experiencias** que fomenten el aprendizaje robusto.
 
 Algunas preguntas de preparación para el video:
 
-* ¿Puedo establecer el mismo objetivo de aprendizaje para cada estudiante de mi curso?
-* ¿Cómo puedo diseñar una experiencia de aprendizaje para lograr que el cerebro de mis estudiantes le asignen 
-una mayor recompensa al proceso que al resultado? Lo anterior incluso bajo las restricciones 
-curriculares y el modelo de negocio que impone el sistema.
+* ¿Puedo establecer el mismo objetivo de aprendizaje para cada estudiante en mi curso?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2lbHG6k2zQ?si=zXNkELZiK4tUD3vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Retoma de nuevo el ciclo virtuoso del aprendizaje. Puedes proponer para uno de tus cursos un idea 
+* Retoma de nuevo el ciclo virtuoso del aprendizaje. Puedes proponer para uno de tus cursos un idea 
 general de una experiencia de aprendizaje que fomente el aprendizaje robusto pasando por cada 
 una de las fases del ciclo? ¿Qué ocurriría en cada una de las fases?
-
-¿Por qué crees que la transferencia del aprendizaje a nuevos contexto o problemas es importante? 
+* ¿Cómo puedo diseñar una experiencia de aprendizaje para lograr que el cerebro de mis estudiantes le asignen 
+una mayor recompensa al proceso que al resultado? Lo anterior incluso bajo las restricciones 
+curriculares y el modelo de negocio que impone el sistema.
+* ¿Por qué crees que la transferencia del aprendizaje a nuevos contexto o problemas es importante? 
 
 #### Actividad 4
 
@@ -401,7 +397,7 @@ o como inspiración para buscar otras más apropiadas para tus necesidades.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ElAT5OfTDIo?si=fS0QOLarAaSKz4MQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Google Colaboratory o colab. Esta herramienta te permitirá crear guías de trabajo (Jupyter Notebook) en las que 
-podrás insertar explicaciones y fragmentos de código python que se ejecutará directamente en la infraestructura de 
+podrás insertar explicaciones y fragmentos de código python que se ejecutarán directamente en la infraestructura de 
 de Google. Te propongo que hagas el demo que encontrarás [aquí](https://simplemlforsheets.com/tutorial_advanced.html). 
 Nota que este demo parte de la herramienta anterior y luego te permitirá exportar el modelo a colab.
 
@@ -413,7 +409,8 @@ hojas de cálculo. Observa el siguiente video para que veas un demo:
 [Scikit-learn](https://scikit-learn.org/) combinada con google colab, te permitirá construir guías donde tus estudiantes 
 pueden experimentar mientras los expones paso a paso a conceptos. Te voy a dejar [este](https://colab.research.google.com/drive/1QYecdoubodoZ7T5zclmJu3NzQF9qbrlq#scrollTo=K9VpEDTuK4zo) enlace a un Jupyter Notebook 
 del canal [dotCSV](https://www.youtube.com/@DotCSV) en Google colab donde se ven tres maneras diferentes de programar una red neuronal. 
-Mira, la idea no es abrumarte, sino que observes cómo quedaría programada la red usando scikit-learn. Ve a la sección Sklearn. 
+Mira, la idea no es abrumarte y tampoco que entiendes todo lo que hay allí, sino que observes la estructura y sobre todo lo 
+que se necesita para hacer el ejercicio con scikit-learn. Ve a la sección Sklearn. 
 Notarás que son pocas instrucciones, por lo cual, la curva de entrada es más amigable.
 
 [Make.com](https://www.make.com/). Esta herramienta permite automatizar procesos. No usa obligatoriamente inteligencia 
@@ -422,10 +419,10 @@ artificial, pero podría incluirla para hacerla parte del flujo de automatizaci�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ADpijI_TqnE?si=MbgQHYH4usoEfyME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-!!! tip "Lo que quieres es trabajar con IA generativa"
+!!! tip "Y si lo que quieres es trabajar con IA generativa"
 
     Mira, tal vez tomaste este curso pensando más en IA generativa que en ML clásico. Recuerda que las 
-    IA generativas como ChatGPT son excelentes para abordar problemas relacionados con procesamiento 
+    IA generativas como ChatGPT son excelentes para abordar tareas relacionados con el procesamiento 
     del lenguaje. ¿Qué problemas podrían abordar tus estudiantes relacionados con este tipo de tareas?
 
 #### Actividad 5
@@ -433,7 +430,7 @@ artificial, pero podría incluirla para hacerla parte del flujo de automatizaci�
 Te puedo mostrar cómo integro yo el uso de la IA en uno de mis cursos de 
 entretenimiento digital?
 
-Mira. Mis estudiantes usan modelos de ML (no es IA generativa) para hacer aplicaciones interactivas como 
+Mis estudiantes usan modelos de ML (no es IA generativa) para hacer aplicaciones interactivas como 
 [esta](https://editor.p5js.org/pattvira/sketches/kxhf0tEiW).
 
 Ellos también pueden hacer fine tunning de redes neuronales convolucionales (deep learning) ya entrenadas 
@@ -473,17 +470,17 @@ si prefieres puedes ir consolidando en la bitácora de consolidación.
 
 Serán dos entregables:
 
-* S2E1: Diseño completo de la experiencia.
-* S2E2: Síntesis del proceso de investigación.
+* S2E1: diseño completo de la experiencia.
+* S2E2: síntesis del proceso de investigación.
 
-Los items para el entregable S2E1 son:
+Los criterios para el entregable S2E1 son:
 
 * Definición del trayecto de actividades de la experiencia que diseñarás.
 
-Las preguntas guía que te ayudarán a elaborar estos items son:
+Las preguntas guía que te ayudarán a elaborar estos criterios son:
 
 * Tu experiencia de aprendizaje ¿A cuál o cuáles resultados de aprendizaje
-le apuntará y por qué?
+le apuntarán y por qué?
 * ¿Con qué evidencia piensas evaluar los resultados de aprendizaje?
 * ¿Tu trayecto de aprendizaje cómo promueve el aprendizaje robusto o a qué tipo de aprendizaje 
 le apunta?
@@ -492,7 +489,7 @@ de aprendizaje y su nivel esperado?
 * ¿Qué esperas qué ocurra en cada una de las actividades y cuál es el propósito 
 con respecto a los resultados de aprendizaje?
 
-Los items para el entregable S2E2 son:
+Los criterios para el entregable S2E2 son:
 
 * Justifica, desde el proceso de indagación, por qué cada una  
 de las decisiones de diseño de tu experiencia de aprendizaje.
@@ -501,7 +498,7 @@ son pertinente para el programa hoy y en el futuro (tendencias)?
 
 ## Sesión 3
 
-Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 8 horas serán de trabajo independiente.
+==Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 8 horas serán de trabajo independiente.==
 
 ### Actividades
 
@@ -522,7 +519,6 @@ curiosidad.
 con tus compañeros los avances que llevas y las dificultades que has tenido. La 
 idea es que con la ayuda de todos puedas ir avanzando en el proceso.
 
-
 #### Actividad 3
 
 Vas a socializar los avances de esta sesión con tus compañeros.
@@ -533,26 +529,25 @@ Vas a socializar los avances de esta sesión con tus compañeros.
 consolidación.
 2. Prepárate para compartir la bitácora de consolidación al inicio de la sesión 4.
 3. Continua con la fase de actuar del marco CBL para terminar los entregables 
-de la sesión 3. Usa tu biátacora de documentación o si prefieres puedes ir consolidando 
-en la bitácora de consolidación.
+de la sesión 3.
 
 ### Entregables
 
 Serán dos entregables:
 
-* S3E1:Implementación de los recursos didácticos.
-* S3E2: Plan de medición de la experiencia.
+* S3E1: implementación de los recursos didácticos.
+* S3E2: plan de medición de la experiencia.
 
-Los items para el entregable S3E1 son:
+Los criterios para el entregable S3E1 son:
 
 * Implementación de cada una de las actividades definidas en el diseño 
 de la experiencia de aprendizaje.
 
-Los items para el entregable S3E2 son:
+Los criterios para el entregable S3E2 son:
 
 * Plan detallada de medición del éxito de la experiencia.
 
-Las preguntas guía que te ayudarán a elaborar estos items son:
+Las preguntas guía que te ayudarán a elaborar estos criterios son:
 
 * ¿Cuáles serán tus indicadores de éxito de la experiencia?
 * ¿Con qué evidencias planeas medir esos indicadores?
@@ -561,13 +556,13 @@ Las preguntas guía que te ayudarán a elaborar estos items son:
 
 ## Sesión 4
 
-Esta sesión durará un total de 12 horas. 2 horas serán presenciales y 10 horas serán de trabajo independiente.
+==Esta sesión durará un total de 12 horas. 2 horas serán presenciales y 10 horas serán de trabajo independiente.==
 
 ### Actividades
 
 #### Actividad 1
 
-En esta actividad vas a socialización y recibir realimentación por parte de todos 
+En esta actividad vas a socializar y recibir realimentación por parte de todos 
 tus compañeros del entregable de la sesión 3.
 
 #### Actividad 2
@@ -585,34 +580,34 @@ consolidación.
 
 Serán dos entregables:
 
-* S4E1: Medición de la experiencia de aprendizaje.
-* S4E2: Experiencia de aprendizaje en formato listo para incluir en el 
+* S4E1: medición de la experiencia de aprendizaje.
+* S4E2: experiencia de aprendizaje en formato listo para incluir en el 
 repositorio comunitario. (El formato está por definir).
 
-Los items para el entregable S4E1 son:
+Los criterios para el entregable S4E1 son:
 
 * Propuesta de mejoras para la experiencia basada en el análisis 
 de la métricas de éxito.
 
-Los items para el entregable S4E2 son:
+Los criterios para el entregable S4E2 son:
 
 * Documento con la experiencia sistematizada en el formato sugerido para 
 incluir en el repositorio comunitario.
 
 ## Sesión 5
 
-Esta sesión durará un total de 2 horas presenciales.
+==Esta sesión durará un total de 2 horas presenciales.==
 
 ### Actividades
 
 #### Actividad 1
 
-En esta actividad vas a socialización los resultados de la evaluación 
-que realizaste a tu experiencias y los hallazgos encontrados con 
+En esta actividad vas a socializar los resultados de la evaluación 
+que realizaste a tu experiencia de aprendizaje y los hallazgos encontrados con 
 la implementación.
 
 #### Actividad 2
 
 Esta será la actividad de cierre final del curso para compartir libremente 
-tus percepciones y sugerir acciones de mejoras para futuras versiones de este 
+tus percepciones y sugerir acciones de mejora para futuras versiones de este 
 curso.
