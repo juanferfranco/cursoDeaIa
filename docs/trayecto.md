@@ -377,6 +377,8 @@ de tu reto?
 
 ## Sesión 2
 
+Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 8 horas serán de trabajo independiente.
+
 ### Actividades
 
 #### Actividad 1
@@ -538,6 +540,8 @@ son pertinente para el programa hoy y en el futuro (tendencias)?
 
 ## Sesión 3
 
+Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 8 horas serán de trabajo independiente.
+
 ### Actividades
 
 #### Actividad 1
@@ -596,6 +600,8 @@ Las preguntas guía que te ayudarán a elaborar estos items son:
 
 ## Sesión 4
 
+Esta sesión durará un total de 12 horas. 2 horas serán presenciales y 10 horas serán de trabajo independiente.
+
 ### Actividades
 
 #### Actividad 1
@@ -633,6 +639,8 @@ Los items para el entregable S4E2 son:
 incluir en el repositorio comunitario.
 
 ## Sesión 5
+
+Esta sesión durará un total de 2 horas presenciales.
 
 ### Actividades
 
