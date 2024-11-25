@@ -189,17 +189,6 @@ Presta atención a estos conceptos clave:
 * Entonces, en términos más concretos que es un modelo de ML?
 * ¿Qué significa que un modelo aprendió?
 
-Repasa de nuevo lo anterior, observando el siguiente video. Presta 
-mucha atención al modelo propuesto y cómo se aplican los conceptos 
-que has visto hasta ahora:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k964_uNn3l0?si=gr_CRp5PdstnZzWa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-* ¿Qué modelo propone el video?
-* ¿Cuáles son los parámetros del modelo?
-* ¿Entonces para qué sirven los datos?
-* ¿Qué función tiene el error?
-
 #### Actividad 8
 
 Hay muchos conceptos más por explorar, pero el tiempo es limitado. 
