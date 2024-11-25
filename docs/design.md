@@ -231,8 +231,6 @@ tareas, entre otras.
 
     - Planeación detallada de la experiencia de aprendizaje (paso a paso).
     - Actividades clave y recursos pedagógicos alineados con los resultados de aprendizaje planeadas.
-    - Identificación del conjunto de criterios y herramientas de evaluación para medir el éxito de la 
-      experiencia de aprendizaje.
 
 ### Sesión 3: actuar
 
@@ -285,4 +283,3 @@ en el repositorio comunitario.
 
 - Socialización y realimentación de la sesión 4.
 - Actividad de cierre del curso.
-

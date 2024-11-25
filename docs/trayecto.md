@@ -1,5 +1,72 @@
 # Trayecto de actividades
 
+Te voy a presentar ahora el trayecto de actividades de cada una de las sesiones 
+que trabajarás en el curso. En cada sesión encontrarás las actividades, tareas 
+y entregables o evidencias.
+
+También te voy a mostrar una estructura sugerida para las bitácoras de aprendizaje.
+
+## Matriz de evidencias
+
+En [esta](https://docs.google.com/spreadsheets/d/1EbhUFV8SgIFn1sJ8qEnC8ARD-ONdvAWvu2-tAMBnsFA/edit?usp=sharing) matriz podrás ver cómo cada evidencia le tributa a los diferentes criterios de competencia del curso.
+
+## Evaluación del curso
+
+El curso tiene 6 criterios de competencia y 7 evidencias. Algunas de estas evidencias le apuntan 
+a varios criterios de competencia.
+
+La nota final del curso será el promedio aritmético de las notas de todos los criterios de 
+competencia.
+
+En [este](https://docs.google.com/spreadsheets/d/1Qqifkwq01ciBIiXOFM4lybdtd33HK3Goiv7haSDa2BQ/edit?usp=sharing) 
+enlace podrás ver cómo van tus notas.
+
+## Manejo de las bitácoras de curso
+
+Te voy a dar algunas sugerencias de cómo puedes trabajar tus bitácoras del curso. 
+
+## Manejo de las bitácoras de documentación
+
+Cada sesión tendrá una bitácora de documentación. Aquí podrás ir recopilando libremente tus 
+ideas, enlaces, recursos, etc. Sin embargo te sugiero esta estructura:
+
+1. Actividades presenciales: aquí podrás ir documentando tu trabajo presencial.
+2. Consolidación del trabajo presencial para socializar con los compañeros.
+
+El trabajo independiente lo puedes dividir en micro-sesiones. Para las sesiones con 8 horas 
+de trabajo independiente te recomiendo que trabajes 4 micro-sesiones de 2 horas cada una. 
+Estas micro-sesiones las puedes dividir en: apertura, 3 bloques y cierre. 
+Te recomiendo bloques de 30 minutos: 20 minutos de trabajo concentrado, 5 minutos para que 
+hagas en la bitácora active-recall de los 20 minutos trabajados y 5 minutos para que descanses 
+la espalda y los ojos. Puedes usar [esta](https://pomofocus.io/) aplicación para controlar el tiempo.
+
+3. Inicia una apertura de micro-sesión usando como guía estas preguntas:
+
+    * ¿Qué trabajé anteriormente?
+    * ¿Qué voy a trabajar en esta micro-sesión?
+
+4. Realiza los bloques
+
+5. Realiza el cierre usando estas preguntas como guía:
+
+    * ¿Cuáles son las conclusiones de la micro-sesión?
+    * ¿Cómo me sentí?
+    * ¿Cómo lo hice hoy u qué puedo mejorar?
+    * ¿Cuáles son los próximos pasos a seguir?
+
+## Manejo de las bitácoras de consolidación
+
+Divide la bitácora de consolidación en 7 secciones. Una sección para 
+cada evidencia:
+
+* S1E1: problema y justificación
+* S2E1: trayecto de actividades 
+* S2E2: síntesis de investigación ¿Por qués?
+* S3E1: implementación de recursos didácticos
+* S3E2: plan de medición
+* S4E1: recolección, análisis, evaluación y mejoras
+* S4E2: experiencia en formato lista para repositorio
+
 ## Sesión 1
 
 Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 
@@ -12,6 +79,17 @@ Esta sesión durará un total de 12 horas. 4 horas serán presenciales y
 En esta actividad vamos a presentar el curso, la metodología y las herramientas de soporte 
 que usaremos.
 
+* La información relacionada con el diseño del curso y la metodología que usaremos está en 
+la sección [diseño](design.md).
+* La administración del curso la realizaremos usando Teams. Envíame un correo a juanf.franco@upb.edu.co 
+para poderte enviar la invitación.
+* Tendrás un NoteBook para ti en Teams. En ese NoteBook vas a tener:
+
+    * Una bitácora de documentación para cada sesión de trabajo. Esa bitácora será un diario de aprendizaje donde irás 
+    documentando todo tu proceso.
+    * Una bitácora de consolidación. Esa bitácora será para consolidar los entregables. A medida que avances 
+    en el proceso, tendrás que hacer ajustes o cambios. Se espera que esos cambios se consoliden en esta 
+    bitácora. 
 
 #### Actividad 2
 
@@ -39,15 +117,6 @@ Ahora que viste el video de pregunto:
 * ¿Has escucha decir que las IA generativas alucinan?
 * ¿Cuál de los casos de uso que comentan en el video de llama más la atención? (contacto con clientes, 
   generación de ideas, asistente).
-
-Algunas herramientas mencionadas en el video y otras relacionadas:
-
-* Acceso a muchos modelos del lenguaje: [Poe AI](https://poe.com/)
-* Social media management: [sproutsocial](https://sproutsocial.com/)
-* Social media marketing and management: [hootsuite](https://www.hootsuite.com/)
-* Email marketing [HighLevel](https://www.gohighlevel.com/)
-* Competitor research [semrush](https://www.semrush.com/)
-* SEO marketing suite [spyfu](https://www.spyfu.com/)
 
 #### Actividad 4
 
@@ -215,7 +284,7 @@ implementación de machine learning.
 
 #### Actividad 10
 
-Hasta punto lo que he tratado es de exponerte de una manera rápida, y lo reconozco, abrumadora, a una 
+Hasta este punto lo que he tratado de hacer es de exponerte de una manera rápida, y lo reconozco, abrumadora, a una 
 cantidad de conceptos relacionados con la IA. Todo esto porque necesito darte contexto y sobre todo un 
 vocabulario inicial que te permita buscar de manera más informada. Todo ello para poder llegar aquí. 
 Esta actividad será tu punto de partida para comenzar a abordar tu reto siguiendo el marco 
@@ -271,30 +340,10 @@ expresemos:
 
 ### Tarea para la próxima sesión
 
-1. Realizar los entregables de la sesión 1 antes de la sesión 2.
-2. Prepárate para socializar los entregables al inicio de la sesión 2.
-
-### Entregables para la sesión 1
-
-Serán dos entregables:
-
-1. Describe y justifica el problema que abordarás en el diseño de tu experiencia 
-   de aprendizaje respondiendo a las siguientes preguntas:
-
-    * ¿Cuál curso seleccionarás y por qué?
-    * ¿Cuál será el problema que abordarás para este curso?
-    * ¿Cuál crees que será la duración y alcance de tu experiencia de aprendizaje?
-    * Explica ¿Cómo se alineará la experiencia de aprendizaje a los resultados de aprendizaje 
-    del curso?
-    * Explica ¿Qué tan pertinente es el problema y las habilidades que desarrollarán tus 
-    estudiantes con la experiencia en relación a las tendencia y al contexto profesional
-    de tu programa?
-    * Explica ¿Por qué piensas que es adecuado incorporar ciertas tecnologías 
-    emergentes?
-    * Explica ¿Cómo incorporaste las recomendaciones de tus compañeros en la definición 
-    de tu reto?
-
-2. Vas a comenzar la fase de indagación del marco CBL:
+1. Realizar los entregables de la sesión 1 antes de la sesión 2. Usa tu bitácora de 
+consolidación.
+2. Prepárate para compartir la bitácora de consolidación al inicio de la sesión 2. 
+3. Vas a comenzar la fase de indagación del marco CBL. Usa tu biátacora de documentación.
 
     * Formula preguntas guía para el RETO que definiste. Estas preguntas buscan que puedas 
     tomar decisiones de diseño para el curso de manera informada y reflexiva. Estas preguntas 
@@ -302,12 +351,299 @@ Serán dos entregables:
     abordar el diseño y construcción de tu experiencia.
     * Inicia a buscar recursos guía para abordar esas preguntas.
 
-!!! warning "EN CONSTRUCCIÓN"
+### Entregables
+
+Esta vez será solo un entregable: S1E1.
+
+Los items que debes trabajar para este entregable son estos:
+
+* Identifica y describe detalladamente el problema que abordarás en uno de tus cursos.
+* Justifica cómo por qué este problema es relevante para el curso, el programa y 
+el contexto profesional de tu programa.
+
+Las preguntas guía que te ayudarán a elaborar estos items son:
+
+* ¿Cuál curso seleccionarás y por qué?
+* ¿Cuál será el problema que abordarás para este curso?
+* ¿Cuál crees que será la duración y alcance de tu experiencia de aprendizaje?
+* Explica ¿Cómo se alineará la experiencia de aprendizaje a los resultados de aprendizaje 
+del curso?
+* Explica ¿Qué tan pertinente es el problema y las habilidades que desarrollarán tus 
+estudiantes con la experiencia en relación a las tendencias y al contexto profesional
+de tu programa?
+* Explica ¿Por qué piensas que es adecuado incorporar la tecnología emergentes que seleccionaste?
+* Explica ¿Cómo incorporaste las recomendaciones de tus compañeros en la definición 
+de tu reto?
 
 ## Sesión 2
 
+### Actividades
+
+#### Actividad 1
+
+En esta actividad vas a socialización y recibir realimentación por parte de todos 
+tus compañeros del entregable de la sesión 1.
+
+#### Actividad 2
+
+En esta actividad explorarás qué es el aprendizaje robusto.
+
+Considera lo siguiente antes de ver el video:
+
+El aprendizaje robusto es aquel que crea redes duraderas, profundas y transferibles 
+de conocimiento, formando una base sólida para el aprendizaje futuro, la adaptación y 
+la aplicación a nuevos desafíos y oportunidades.
+
+* Presta especial atención en el video al mecanismo que usa el cerebro para 
+fomentar un aprendizaje robusto.
+* En el video te hablarán del ciclo virtuoso del aprendizaje. ¿Por qué es un 
+círculo virtuoso?
+* ¿Qué fases componen cada iteración del círculo virtuoso del aprendizaje?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SJeOIsL1QL8?si=p5nnoByoqsWoga9P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Ahora piensa en esto:
+
+* ¿Por qué puede ser complejo diseñar experiencias de aprendizaje que fomenten el aprendizaje 
+robusto de cada uno de tus estudiantes?
+* La pregunta anterior no es para desanimarte, más bien es para lanzarte un reto. ¿Cómo podrías 
+lograr que la experiencia de aprendizaje sea personalizada para cada estudiante?
+
+#### Actividad 3
+
+En esta actividad explorarás cómo diseñar experiencias que fomenten el aprendizaje robusto.
+
+Algunas preguntas de preparación para el video:
+
+* ¿Puedo establecer el mismo objetivo de aprendizaje para cada estudiante de mi curso?
+* ¿Cómo puedo diseñar una experiencia de aprendizaje para lograr que el cerebro de mis estudiantes le asignen 
+una mayor recompensa al proceso que al resultado? Lo anterior incluso bajo las restricciones 
+curriculares y el modelo de negocio que impone el sistema.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2lbHG6k2zQ?si=zXNkELZiK4tUD3vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Retoma de nuevo el ciclo virtuoso del aprendizaje. Puedes proponer para uno de tus cursos un idea 
+general de una experiencia de aprendizaje que fomente el aprendizaje robusto pasando por cada 
+una de las fases del ciclo? ¿Qué ocurriría en cada una de las fases?
+
+¿Por qué crees que la transferencia del aprendizaje a nuevos contexto o problemas es importante? 
+
+#### Actividad 4
+
+Te voy a mostrar algunas herramientas interesantes que podrían servirte para tu curso 
+o como inspiración para buscar otras más apropiadas para tus necesidades.
+
+[Simple ML for Sheets](https://simplemlforsheets.com/). Observa el siguiente video con un demo rápido de lo que se puede hacer:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ElAT5OfTDIo?si=fS0QOLarAaSKz4MQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Google Colaboratory o colab. Esta herramienta te permitirá crear guías de trabajo (Jupyter Notebook) en las que 
+podrás insertar explicaciones y fragmentos de código python que se ejecutará directamente en la infraestructura de 
+de Google. Te propongo que hagas el demo que encontrarás [aquí](https://simplemlforsheets.com/tutorial_advanced.html). 
+Nota que este demo parte de la herramienta anterior y luego te permitirá exportar el modelo a colab.
+
+[Thebricks](https://www.thebricks.com/), te permitirá experimentar el uso de la inteligencia artificial generativa en 
+hojas de cálculo. Observa el siguiente video para que veas un demo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yp5mPK8Jc3U?si=ROz73ixDwTgqvbw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Scikit-learn](https://scikit-learn.org/) combinada con google colab, te permitirá construir guías donde tus estudiantes 
+pueden experimentar mientras los expones paso a paso a conceptos. Te voy a dejar [este](https://colab.research.google.com/drive/1QYecdoubodoZ7T5zclmJu3NzQF9qbrlq#scrollTo=K9VpEDTuK4zo) enlace a un Jupyter Notebook 
+del canal [dotCSV](https://www.youtube.com/@DotCSV) en Google colab donde se ven tres maneras diferentes de programar una red neuronal. 
+Mira, la idea no es abrumarte, sino que observes cómo quedaría programada la red usando scikit-learn. Ve a la sección Sklearn. 
+Notarás que son pocas instrucciones, por lo cual, la curva de entrada es más amigable.
+
+[Make.com](https://www.make.com/). Esta herramienta permite automatizar procesos. No usa obligatoriamente inteligencia 
+artificial, pero podría incluirla para hacerla parte del flujo de automatización. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ADpijI_TqnE?si=MbgQHYH4usoEfyME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+!!! tip "Lo que quieres es trabajar con IA generativa"
+
+    Mira, tal vez tomaste este curso pensando más en IA generativa que en ML clásico. Recuerda que las 
+    IA generativas como ChatGPT son excelentes para abordar problemas relacionados con procesamiento 
+    del lenguaje. ¿Qué problemas podrían abordar tus estudiantes relacionados con este tipo de tareas?
+
+#### Actividad 5
+
+Te puedo mostrar cómo integro yo el uso de la IA en uno de mis cursos de 
+entretenimiento digital?
+
+Mira. Mis estudiantes usan modelos de ML (no es IA generativa) para hacer aplicaciones interactivas como 
+[esta](https://editor.p5js.org/pattvira/sketches/kxhf0tEiW).
+
+Ellos también pueden hacer fine tunning de redes neuronales convolucionales (deep learning) ya entrenadas 
+usando herramientas como [esta](https://teachablemachine.withgoogle.com/train).
+
+Quiero que notes dos cosas de lo que te acabo de mostrar:
+
+1. En mis cursos empleamos modelos de IA y buscamos darle un uso creativo.
+2. Trato de usar herramientas web para evitar instalar programas en la Universidad.
+
+#### Actividad 6
+
+Vas a continuar con la fase de indagación del marco CBL. 
+
+* Comienza a revisar los recursos guía y a responder las preguntas.
+* Si en el camino te surgen más preguntas está bien. Déjate guiar por tu 
+curiosidad.
+* No olvides documentar tu proceso en la bitácora de documentación.
+* Luego de esta actividad tendremos una actividad de cierre donde compartirás 
+con tus compañeros los avances que llevas y las dificultades que has tenido. La 
+idea es que con la ayuda de todos puedas ir avanzando en el proceso.
+
+#### Actividad 7
+
+Vas a socializar los avances de esta sesión con tus compañeros.
+
+### Tarea para la próxima sesión
+
+1. Realizar los entregables de la sesión 2 antes de la sesión 3. Usa tu bitácora de 
+consolidación.
+2. Prepárate para compartir la bitácora de consolidación al inicio de la sesión 3. 
+3. Vas a comenzar, si te queda tiempo, la fase de actuar del marco CBL. En esta fase 
+comenzarás a realizar los entregables de la sesión 3. Usa tu biátacora de documentación o 
+si prefieres puedes ir consolidando en la bitácora de consolidación.
+
+### Entregables
+
+Serán dos entregables:
+
+* S2E1: Diseño completo de la experiencia.
+* S2E2: Síntesis del proceso de investigación.
+
+Los items para el entregable S2E1 son:
+
+* Definición del trayecto de actividades de la experiencia que diseñarás.
+
+Las preguntas guía que te ayudarán a elaborar estos items son:
+
+* Tu experiencia de aprendizaje ¿A cuál o cuáles resultados de aprendizaje
+le apuntará y por qué?
+* ¿Con qué evidencia piensas evaluar los resultados de aprendizaje?
+* ¿Tu trayecto de aprendizaje cómo promueve el aprendizaje robusto o a qué tipo de aprendizaje 
+le apunta?
+* Las evidencias que definiste ¿Cómo están alineadas con el resultado 
+de aprendizaje y su nivel esperado?
+* ¿Qué esperas qué ocurra en cada una de las actividades y cuál es el propósito 
+con respecto a los resultados de aprendizaje?
+
+Los items para el entregable S2E2 son:
+
+* Justifica, desde el proceso de indagación, por qué cada una  
+de las decisiones de diseño de tu experiencia de aprendizaje.
+* Justifica ¿Por qué el problema y las herramientas que abordarás con tu experiencia 
+son pertinente para el programa hoy y en el futuro (tendencias)?
+
 ## Sesión 3
+
+### Actividades
+
+#### Actividad 1
+
+En esta actividad vas a socializar y recibir realimentación por parte de todos 
+tus compañeros del entregable de la sesión 2.
+
+#### Actividad 2
+
+Vas a continuar con la fase de indagación del marco CBL. 
+
+* Comienza a revisar los recursos guía y a responder las preguntas.
+* Si en el camino te surgen más preguntas está bien. Déjate guiar por tu 
+curiosidad.
+* No olvides documentar tu proceso en la bitácora de documentación.
+* Luego de esta actividad tendremos una actividad de cierre donde compartirás 
+con tus compañeros los avances que llevas y las dificultades que has tenido. La 
+idea es que con la ayuda de todos puedas ir avanzando en el proceso.
+
+
+#### Actividad 3
+
+Vas a socializar los avances de esta sesión con tus compañeros.
+
+### Tarea para la próxima sesión
+
+1. Realizar los entregables de la sesión 3 antes de la sesión 4. Usa tu bitácora de 
+consolidación.
+2. Prepárate para compartir la bitácora de consolidación al inicio de la sesión 4.
+3. Continua con la fase de actuar del marco CBL para terminar los entregables 
+de la sesión 3. Usa tu biátacora de documentación o si prefieres puedes ir consolidando 
+en la bitácora de consolidación.
+
+### Entregables
+
+Serán dos entregables:
+
+* S3E1:Implementación de los recursos didácticos.
+* S3E2: Plan de medición de la experiencia.
+
+Los items para el entregable S3E1 son:
+
+* Implementación de cada una de las actividades definidas en el diseño 
+de la experiencia de aprendizaje.
+
+Los items para el entregable S3E2 son:
+
+* Plan detallada de medición del éxito de la experiencia.
+
+Las preguntas guía que te ayudarán a elaborar estos items son:
+
+* ¿Cuáles serán tus indicadores de éxito de la experiencia?
+* ¿Con qué evidencias planeas medir esos indicadores?
+* ¿Cómo planeas recolectar esas evidencias?
+* ¿Cómo planes procesarlas y evaluarlas?
 
 ## Sesión 4
 
+### Actividades
+
+#### Actividad 1
+
+En esta actividad vas a socialización y recibir realimentación por parte de todos 
+tus compañeros del entregable de la sesión 3.
+
+#### Actividad 2
+
+En esta actividad vamos a conversar sobre los resultados del curso hasta ahora, 
+cómo te has sentido y cómo crees que podríamos mejorar este curso a futuro.
+
+### Tarea para la próxima sesión
+
+1. Realizar los entregables de la sesión 4 antes de la sesión 5. Usa tu bitácora de 
+consolidación.
+2. Prepárate para compartir la bitácora de consolidación en la sesión 5. 
+
+### Entregables
+
+Serán dos entregables:
+
+* S4E1: Medición de la experiencia de aprendizaje.
+* S4E2: Experiencia de aprendizaje en formato listo para incluir en el 
+repositorio comunitario. (El formato está por definir).
+
+Los items para el entregable S4E1 son:
+
+* Propuesta de mejoras para la experiencia basada en el análisis 
+de la métricas de éxito.
+
+Los items para el entregable S4E2 son:
+
+* Documento con la experiencia sistematizada en el formato sugerido para 
+incluir en el repositorio comunitario.
+
 ## Sesión 5
+
+### Actividades
+
+#### Actividad 1
+
+En esta actividad vas a socialización los resultados de la evaluación 
+que realizaste a tu experiencias y los hallazgos encontrados con 
+la implementación.
+
+#### Actividad 2
+
+Esta será la actividad de cierre final del curso para compartir libremente 
+tus percepciones y sugerir acciones de mejoras para futuras versiones de este 
+curso.

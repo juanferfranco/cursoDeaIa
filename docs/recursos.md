@@ -19,6 +19,8 @@
 [Machine Learning: Herramientas de Programación](https://youtube.com/playlist?list=PL9E7H1rzXKFJ_Y5c_LdCzFN07mJyYVX_S&si=B51ZSXwlo4Kpp8X_)  
 [Deep Learning: Fundamentos](https://youtube.com/playlist?list=PL9E7H1rzXKFL02ncBNpf1WfcDoYILDrV0&si=GpL9KV86YXzGeGns)  
 [Deep Learning: Herramientas de Programación](https://youtube.com/playlist?list=PL9E7H1rzXKFKwj7yHm0VYyo9ZMgRD2U-5&si=oAchOIAtFNVKsMpt)  
+[Large Language Models](https://youtube.com/playlist?list=PL9E7H1rzXKFLnyK1KIOp4Zw6N_FYbMqXX&si=osh7H4hd9H80jXhf)  
+[Aprende Inteligencia Artificial](https://youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0&si=5Y6sDaQiuz7yDM7p)  
 
 
 ## Herramientas
@@ -26,7 +28,13 @@
 [scikit-learn](https://scikit-learn.org/stable/)  
 [Simple ML for Sheets](https://simplemlforsheets.com/)  
 [thebricks](https://www.thebricks.com/)  
-[streamlit](https://streamlit.io/)  
+[streamlit](https://streamlit.io/)
+[Poe AI](https://poe.com/)
+[sproutsocial](https://sproutsocial.com/)
+[hootsuite](https://www.hootsuite.com/)
+[HighLevel](https://www.gohighlevel.com/)
+[semrush](https://www.semrush.com/)
+[spyfu](https://www.spyfu.com/)
 
 
 ## Recursos por temas
@@ -49,17 +57,15 @@
 * KAGGLE: 3 formas de acelerar el aprendizaje del MACHINE LEARNING. [Youtube](https://youtu.be/yKpgXWPStEk?si=waUTHIHaGmFkQp2w)  
 * 185 real-world gen AI use cases from the world's leading organizations. [Website](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)  
 * Generate text, images, code, and more with Google Cloud AI. [Website](https://cloud.google.com/use-cases/generative-ai)  
-*   
-
+* Make.com Automation Tutorial for Beginners. [Youtube](https://youtu.be/JSA2oezQWOU?si=qNjmCh93kI_Px7MC) 
 
 ## Libros
 
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build. 
   [Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=sims_dp_d_dex_popular_subs_t3_v6_d_sccl_3_1/135-4306376-9027022?pd_rd_w=3wnkC&content-id=amzn1.sym.e8d820ef-2096-4eeb-b1bc-3781fc2e29af&pf_rd_p=e8d820ef-2096-4eeb-b1bc-3781fc2e29af&pf_rd_r=WDY54S1XTMZG1WJE80E6&pd_rd_wg=2mGIT&pd_rd_r=9f605033-a571-463b-9e21-c842a54ae61b&pd_rd_i=1098125975&psc=1)
 * Mathematics for Machine Learning. [Amazon](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth-ebook/dp/B083M7DBP6?ref_=ast_author_mpb)  
-* 
+ 
 
 ## Proyectos para aprender de otros y conseguir datos 
 
 * [kaggle](https://www.kaggle.com/)
-* 
