@@ -4,13 +4,37 @@ Te voy a presentar ahora el trayecto de actividades de cada una de las sesiones
 que trabajarás en el curso. En cada sesión encontrarás las actividades, tareas 
 y entregables o evidencias.
 
-También te voy a mostrar una estructura sugerida para las bitácoras de aprendizaje.
+## Sesión 1
 
-## Matriz de evidencias
+==Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 
+8 horas serán de trabajo independiente.==
+
+### Actividades
+
+#### Actividad 1
+
+En esta actividad te voy a presentar el curso, la metodología y las herramientas de soporte 
+que usaremos.
+
+* La información relacionada con el diseño del curso y la metodología que usaremos está en 
+la sección [diseño](design.md).
+* Únete a Teams usando [este](https://teams.microsoft.com/l/team/19%3AHEDXfFldlJvMZAlq0kWm3ojVKk-aOjUGuz8wuA5xI3Y1%40thread.tacv2/conversations?groupId=374f373a-4ee8-4747-8e5d-bb29767bf57c&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35) enlace o
+* Envíame un correo a juanf.franco@upb.edu.co 
+para poderte enviar la invitación.
+* Tendrás un NoteBook para ti en Teams. En ese NoteBook vas a tener:
+
+    * Una bitácora de documentación para cada sesión de trabajo. Esa bitácora será tu diario de aprendizaje donde irás 
+    documentando todo tu proceso.
+    * Una bitácora de consolidación. Esa bitácora será para consolidar los entregables. A medida que avances 
+    en el proceso, tendrás que hacer ajustes o cambios. Se espera que esos cambios se consoliden en esta 
+    bitácora. 
+
+
+**Matriz de evidencias**
 
 En [esta](https://docs.google.com/spreadsheets/d/1EbhUFV8SgIFn1sJ8qEnC8ARD-ONdvAWvu2-tAMBnsFA/edit?usp=sharing) matriz podrás ver cómo cada evidencia le tributa a los diferentes criterios de competencia del curso.
 
-## Evaluación del curso
+**Evaluación del curso**
 
 El curso tiene 6 criterios de competencia y 7 evidencias. Algunas de estas evidencias le apuntan 
 a varios criterios de competencia.
@@ -21,40 +45,36 @@ competencia.
 En [este](https://docs.google.com/spreadsheets/d/1Qqifkwq01ciBIiXOFM4lybdtd33HK3Goiv7haSDa2BQ/edit?usp=sharing) 
 enlace podrás ver cómo van tus notas.
 
-## Manejo de las bitácoras de curso
-
-Te voy a dar algunas sugerencias de cómo puedes trabajar tus bitácoras del curso. 
-
-## Manejo de las bitácoras de documentación
+**Manejo de las bitácoras de documentación**
 
 Cada sesión tendrá una bitácora de documentación. Aquí podrás ir recopilando libremente tus 
 ideas, enlaces, recursos, etc. Sin embargo te sugiero esta estructura:
 
-1. Actividades presenciales: aquí podrás ir documentando tu trabajo presencial.
-2. Consolidación del trabajo presencial para socializar con los compañeros.
+- Actividades presenciales: aquí podrás ir documentando tu trabajo presencial.
+- Consolidación del trabajo presencial para socializar con los compañeros.
 
-El trabajo independiente lo puedes dividir en micro-sesiones. Para las sesiones con 8 horas 
+El trabajo independiente lo puedes dividir en micro-sesiones. Para las sesiones de 8 horas 
 de trabajo independiente te recomiendo que trabajes 4 micro-sesiones de 2 horas cada una. 
 Estas micro-sesiones las puedes dividir en: apertura, 3 bloques y cierre. 
 Te recomiendo bloques de 30 minutos: 20 minutos de trabajo concentrado, 5 minutos para que 
-hagas en la bitácora active-recall de los 20 minutos trabajados y 5 minutos para que descanses 
+hagas en la bitácora active-recall (consolidación parcial) de los 20 minutos trabajados y 5 minutos para que descanses 
 la espalda y los ojos. Puedes usar [esta](https://pomofocus.io/) aplicación para controlar el tiempo.
 
-3. Inicia una apertura de micro-sesión usando como guía estas preguntas:
+- Inicia la apertura de la micro-sesión usando como guía estas preguntas:
 
-    * ¿Qué trabajé anteriormente?
-    * ¿Qué voy a trabajar en esta micro-sesión?
+    - ¿Qué trabajé anteriormente?
+    - ¿Qué voy a trabajar en esta micro-sesión?
 
-4. Realiza los bloques
+- Realiza los bloques
 
-5. Realiza el cierre usando estas preguntas como guía:
+- Realiza el cierre usando estas preguntas como guía:
 
-    * ¿Cuáles son las conclusiones de la micro-sesión?
-    * ¿Cómo me sentí?
-    * ¿Cómo lo hice hoy u qué puedo mejorar?
-    * ¿Cuáles son los próximos pasos a seguir?
+    - ¿Cuáles son las conclusiones de la micro-sesión?
+    - ¿Cómo me sentí hoy?
+    - ¿Cómo lo hice hoy y qué puedo mejorar?
+    - ¿Cuáles son los próximos pasos a seguir?
 
-## Manejo de las bitácoras de consolidación
+**Manejo de las bitácoras de consolidación**
 
 Divide la bitácora de consolidación en 7 secciones. Una sección para 
 cada evidencia:
@@ -65,31 +85,7 @@ cada evidencia:
 * S3E1: implementación de recursos didácticos
 * S3E2: plan de medición
 * S4E1: recolección, análisis, evaluación y mejoras
-* S4E2: experiencia en formato lista para repositorio
-
-## Sesión 1
-
-Esta sesión durará un total de 12 horas. 4 horas serán presenciales y 
-8 horas serán de trabajo independiente.
-
-### Actividades
-
-#### Actividad 1
-
-En esta actividad vamos a presentar el curso, la metodología y las herramientas de soporte 
-que usaremos.
-
-* La información relacionada con el diseño del curso y la metodología que usaremos está en 
-la sección [diseño](design.md).
-* La administración del curso la realizaremos usando Teams. Envíame un correo a juanf.franco@upb.edu.co 
-para poderte enviar la invitación.
-* Tendrás un NoteBook para ti en Teams. En ese NoteBook vas a tener:
-
-    * Una bitácora de documentación para cada sesión de trabajo. Esa bitácora será un diario de aprendizaje donde irás 
-    documentando todo tu proceso.
-    * Una bitácora de consolidación. Esa bitácora será para consolidar los entregables. A medida que avances 
-    en el proceso, tendrás que hacer ajustes o cambios. Se espera que esos cambios se consoliden en esta 
-    bitácora. 
+* S4E2: experiencia en formato listo para el repositorio comunitario
 
 #### Actividad 2
 
@@ -99,8 +95,7 @@ Esta será una actividad de calentamiento grupal:
 
 #### Actividad 3
 
-Esta actividad busca que exploremos juntos conceptos claves de la inteligencia artificial y 
-la relación que estos pueden tener con nuestros cursos y contextos de actuación profesional.
+Vas a comenzar a explorar algunos conceptos claves de la inteligencia artificial y estar atento a la relación que estos pueden tener con tus cursos y contextos de actuación profesional.
 
 Te pediré que observes el siguiente video, pero antes lee atentamente estas preguntas 
 para que estés alerta a ellas mientras observas con atención:
@@ -112,10 +107,10 @@ para que estés alerta a ellas mientras observas con atención:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LTVnSYc0-l4?si=0V6jtz3c0t_pwYYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Ahora que viste el video de pregunto:
+Ahora que viste el video te pregunto:
 
 * ¿Has escucha decir que las IA generativas alucinan?
-* ¿Cuál de los casos de uso que comentan en el video de llama más la atención? (contacto con clientes, 
+* ¿Cuál de los casos de uso que comentan en el video te llama más la atención? (contacto con clientes, 
   generación de ideas, asistente).
 
 #### Actividad 4
@@ -125,8 +120,7 @@ o lo que llaman Hype. Mira, no te muestro esto con una intensión negativa, sino
 más bien como un llamado de atención para estar siempre en un estado 
 de pensamiento crítico.
 
-Observa el siguiente video: la IA generativa no es la panacea que se nos ha prometido.
-Ten presente las siguientes preguntas mientras ves el video:
+Observa el siguiente video y presta atención a las siguientes preguntas mientras lo ves:
 
 * ¿Qué es la inteligencia artificial predictiva?
 * ¿Qué es la inteligencia artificial generativa?
@@ -135,6 +129,11 @@ Ten presente las siguientes preguntas mientras ves el video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2zCWJBnfuE?si=2BqHNQtM2cOkMrLG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * ¿A qué se refieren en el video con enfocarse en **VALOR CONCRETO** de la IA?
+
+!!! Tip "Estar atento a los avances"
+
+    Mira, esto de la IA va muy rápido y es posible que logren, en ciertos casos, mejorar
+    los problemas de alucinaciones.
 
 #### Actividad 5
 
@@ -152,8 +151,8 @@ Antes de iniciar a observar el video. Presta atención a esto:
 
 * Al día de hoy contamos con IA fuerte, una AGI?
 * En términos del machine learning (ML), si un sistema es capaz de generalizar un comportamiento basado 
-  en un conjuntos de experiencias, podemos decir que el sistema ha: ????
-* Según la manera como aprenden los sistemas de ML ¿Qué categorías tenemos?
+  en un conjuntos de experiencias, podemos decir que el sistema ha podido: ?
+* Vamos a ampliar el video. Según la manera como aprenden los sistemas de ML ¿Qué categorías tenemos?
 
     * Supervised learning
     * Unsupervised learning
@@ -166,7 +165,7 @@ Ahora te voy a proponer que profundices un poco más en el concepto de aprendiza
 
 Presta atención a lo siguiente antes de comenzar a ver el video:
 
-* ¿Qué tipo de estrategias de aprendizaje hay?
+* ¿Qué diferencia al aprendiza supervisado y al no supervisado?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oT3arRRB2Cw?si=mw-OBO-4qUokYkbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -211,25 +210,24 @@ para estimular el aprendizaje (el tuyo) profundo y perdurable. Esta
 técnica hace parte de un grupo de estrategias de aprendizaje denominada 
 [dificultades deseables](https://youtu.be/XPllm-gtrMM?si=LkYezE--SNijN9qD). 
 Si, lo siento, el nombre indica que son dificultades, 
-y en principio no parecen deseables porque parece que no estás avanzando, 
+y en principio no parecen deseables porque sientes que no estás avanzando, 
 te parece que vas lento. Sin embargo, hay evidencia científica suficiente 
 para apoyar esta técnica: ACTIVE RECALL.
 
 Te voy a proponer una actividad para que consolides lo que llevamos. 
 Vas a construir un "mapa" visual que te permita relacionar de alguna manera 
-las siguientes palabras. La idea es que conectes las palabras y las organices 
+las algunas palabras. La idea es que conectes las palabras y las organices 
 de modo que puedas darle sentido a todas juntas y narrar visualmente una historia 
 con ellas. Te sugiero que uses una hoja grade o una herramienta como 
 [MS Whiteboard](https://whiteboard.office.com/). Las palabras son estas:
 
-IA generativa, IA predictiva, Machine learning, Hype, Valor concreto, modelo, 
+IA generativa, IA predictiva, Machine learning, Hype, Valor concreto, modelo, algoritmo,  
 inferencia, entrenamiento, predicción, aprendizaje, supervisado, no supervisado, 
-datos, error, parámetros, charGPT, Inteligencia artificial.
+datos, error, parámetros, charGPT, Inteligencia artificial, hiperparámetros.
 
 Finalmente, te dejo otro resumen:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PeMlggyqz0Y?si=mZjZZf245wlN3jK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 #### Actividad 9
 
@@ -244,8 +242,7 @@ Observa el siguiente video. Te pido que estés atento a estos puntos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NNue6rkDrws?si=mJH8mtEXTC3MMcaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* En uno de tus cursos (o en varios si quieres) piensa en problemas que caigan en las tipos de problemas 
-  que se pueden abordar con las técnicas de aprendizaje supervisado del video.
+* En uno de tus cursos (o en varios si quieres) ¿Qué problemas se podrían abordar con técnicas supervisadas?
 
 Ahora te voy a mostrar otro video donde se proponen más tipos o familias de problemas 
 que pueden resolverse con ML.
@@ -255,7 +252,7 @@ que pueden resolverse con ML.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNWKJsDNScw?si=9GebPYbOPWH7v6OH&amp;start=59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Realiza un mapa visual en el que clasifiques los tipos de problemas que acabas de ver.
-* Ahora intenta aplicar lo anterior lo anterior a uno de tus cursos. Qué tipo de problema podrías 
+* Ahora intenta aplicar lo anterior a uno de tus cursos. Qué tipo de problema podrías 
   abordar y por qué?
 
 Ahora te pediré que profundices en esta pregunta: ¿Cuáles es la diferencia entre un modelo y un algoritmo de ML?
@@ -267,7 +264,7 @@ Ahora te pediré que profundices en esta pregunta: ¿Cuáles es la diferencia en
   ambas cosas son fundamentales porque la primera permite que puedas realizar con más confianza lo segundo. En este punto 
   puede ser prematuro responder lo siguiente, pero vamos a intentarlo. ¿Crees que sea posible que tus estudiantes 
   construyan un modelo y luego lo usen para tomar decisiones? Justifica por qué crees que si o no. Piensa en esto ¿Qué 
-  necesitaría saber yo y mis estudiantes?
+  necesitarían saber mis estudiantes y yo?
 
 Ahora quiero que puedas hacerte a una idea de la ADMINISTRACIÓN necesaria que puede llegar a requerir una 
 implementación de machine learning.
@@ -284,7 +281,7 @@ implementación de machine learning.
 
 #### Actividad 10
 
-Hasta este punto lo que he tratado de hacer es de exponerte de una manera rápida, y lo reconozco, abrumadora, a una 
+Hasta este punto lo que he tratado de hacer es exponerte de manera rápida, y lo reconozco, abrumadora, a una 
 cantidad de conceptos relacionados con la IA. Todo esto porque necesito darte contexto y sobre todo un 
 vocabulario inicial que te permita buscar de manera más informada. Todo ello para poder llegar aquí. 
 Esta actividad será tu punto de partida para comenzar a abordar tu reto siguiendo el marco 
@@ -309,14 +306,14 @@ Esta actividad será tu punto de partida para comenzar a abordar tu reto siguien
     evaluarás el impacto de la experiencia en el aprendizaje de los estudiantes y su conexión con las tendencias 
     del mundo de los negocios o el contexto de acción profesional de tu programa.
 
-Ahora tu turno es personalizar este reto. Para ellos te voy a proponer unas preguntas guía esenciales, PERO 
+Ahora tu turno es personalizar este reto. Para ello te voy a proponer unas preguntas guía esenciales, PERO 
 no te limites a estas si sientes que necesitas indagar más antes de definir tu reto personalizado:
 
 * ¿En cuál curso crees que puedes desplegar tu diseño en 2025-10?
 * De todo esto que has visto hoy ¿Qué te genera más interés?
 * ¿Qué conceptos son difíciles de comprender o aplicar por parte de los estudiantes?
 * ¿Qué habilidades necesitan desarrollar para enfrentarse al entorno empresarial actual?
-* ¿Qué problema podría abordar tus estudiantes en la experiencia de aprendizaje que diseñarás?
+* ¿Qué problema podrían abordar tus estudiantes en la experiencia de aprendizaje que diseñarás?
 * ¿Por qué este problema es relevante para su perfil de egreso?
 * ¿Qué resultado de aprendizaje planeas abordar con la experiencia de aprendizaje?
 * ¿Cómo está alineado este problema con los resultados de aprendizaje del curso?
