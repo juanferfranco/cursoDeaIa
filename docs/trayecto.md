@@ -95,27 +95,7 @@ Esta será una actividad de calentamiento grupal:
 
 #### Actividad 3
 
-Vas a comenzar a explorar algunos conceptos claves de la inteligencia artificial y estar atento a la relación que estos pueden tener con tus cursos y contextos de actuación profesional.
-
-Te pediré que observes el siguiente video, pero antes lee atentamente estas preguntas 
-para que estés alerta a ellas mientras observas con atención:
-
-* ¿Crees que la IA es accesible para los pequeños negocios o solo está reservada para empresas grandes?
-* Presta atención a un término que escucharás: Inteligencia artificial generativa. ¿Qué será? ¿Entonces
-  hay otros tipos?
-* ¿Sabías que hemos venido usando IA desde hace años y casi a diario?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LTVnSYc0-l4?si=0V6jtz3c0t_pwYYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Ahora que viste el video te pregunto:
-
-* ¿Has escucha decir que las IA generativas alucinan?
-* ¿Cuál de los casos de uso que comentan en el video te llama más la atención? (contacto con clientes, 
-  generación de ideas, asistente).
-
-#### Actividad 4
-
-Ahora me gustaría presentarte una idea: la burbuja de expectativas sobre la IA 
+Piensa en esta idea: la burbuja de expectativas sobre la IA 
 o lo que llaman Hype. Mira, no te muestro esto con una intensión negativa, sino 
 más bien como un llamado de atención para estar siempre en un estado 
 de pensamiento crítico.
@@ -135,7 +115,7 @@ Observa el siguiente video y presta atención a las siguientes preguntas mientra
     Mira, esto de la IA va muy rápido y es posible que logren, en ciertos casos, mejorar
     los problemas de alucinaciones.
 
-#### Actividad 5
+#### Actividad 4
 
 Ahora te propondré que intentemos aclarar algunos conceptos y hacer un mapa mental 
 que nos permita situarnos en dónde estamos cuando hablamos de IA.
@@ -159,7 +139,7 @@ Antes de iniciar a observar el video. Presta atención a esto:
     * Reinforcement learning
     * Generative AI
 
-#### Actividad 6
+#### Actividad 5
 
 Ahora te voy a proponer que profundices un poco más en el concepto de aprendizaje.
 
@@ -172,7 +152,7 @@ Presta atención a lo siguiente antes de comenzar a ver el video:
 * De los tipos de aprendizaje que viste en el video ¿Cuál crees
   que sea el que usaron con ChatGPT?
 
-#### Actividad 7
+#### Actividad 6
 
 Esto del aprendizaje sigue siendo muy abstracto, verdad? En ML quién aprende? 
 Para poder responder esta pregunta debemos introducir el concepto de modelo.
@@ -189,7 +169,7 @@ Presta atención a estos conceptos clave:
 * Entonces, en términos más concretos que es un modelo de ML?
 * ¿Qué significa que un modelo aprendió?
 
-#### Actividad 8
+#### Actividad 7
 
 Hay muchos conceptos más por explorar, pero el tiempo es limitado. 
 ¿Cómo te sientes hasta ahora? ¿Mucha información?
@@ -218,7 +198,7 @@ Finalmente, te dejo otro resumen:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PeMlggyqz0Y?si=mZjZZf245wlN3jK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Actividad 9
+#### Actividad 8
 
 Ahora es momento de explorar aquellos problemas que puedes abordar usando 
 técnicas de machine learning.
@@ -268,7 +248,7 @@ implementación de machine learning.
 
 * Piensa de nuevo en tu curso y tus estudiantes. ¿Qué oportunidades observas para tus estudiantes, para el programa académico?
 
-#### Actividad 10
+#### Actividad 9
 
 Hasta este punto lo que he tratado de hacer es exponerte de manera rápida, y lo reconozco, abrumadora, a una 
 cantidad de conceptos relacionados con la IA. Todo esto porque necesito darte contexto y sobre todo un 
@@ -313,7 +293,7 @@ no te limites a estas si sientes que necesitas indagar más antes de definir tu 
 * El problema que propones abordar ¿Crees que será relevante una vez egresen tus estudiantes?
 * ¿Cuál quieres que sea la duración y el alcance de tu experiencia de aprendizaje?
 
-#### Actividad 11
+#### Actividad 10
 
 Esta será nuestra actividad de cierre de la sesión 1. Haremos una conversación grupal donde 
 expresemos:
