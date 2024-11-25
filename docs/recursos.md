@@ -40,7 +40,9 @@
 [Elicit](https://elicit.com/). Herramienta para analizar papers de investigación.  
 [Napkin](https://www.napkin.ai/). Construir visuales desde el texto.  
 [Futuretools](https://www.futuretools.io/). Buscador de herramientas por categorías.  
-[Gamma](https://gamma.app/). Generador de presentaciones.   
+[Gamma](https://gamma.app/). Generador de presentaciones.
+[Perplexity](https://www.perplexity.ai/). Buscador potenciado con IA generativa.  
+
 
 ## Recursos por temas
 
