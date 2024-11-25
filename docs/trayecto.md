@@ -194,10 +194,6 @@ IA generativa, IA predictiva, Machine learning, Hype, Valor concreto, modelo, al
 inferencia, entrenamiento, predicción, aprendizaje, supervisado, no supervisado, 
 datos, error, parámetros, charGPT, Inteligencia artificial, hiperparámetros.
 
-Finalmente, te dejo otro resumen:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PeMlggyqz0Y?si=mZjZZf245wlN3jK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 #### Actividad 8
 
 Ahora es momento de explorar aquellos problemas que puedes abordar usando 
