@@ -187,8 +187,7 @@ Te voy a proponer una actividad para que consolides lo que llevamos.
 Vas a construir un "mapa" visual que te permita relacionar de alguna manera 
 las algunas palabras. La idea es que conectes las palabras y las organices 
 de modo que puedas darle sentido a todas juntas y narrar visualmente una historia 
-con ellas. Te sugiero que uses una hoja grade o una herramienta como 
-[MS Whiteboard](https://whiteboard.office.com/). Las palabras son estas:
+con ellas. Las palabras son estas:
 
 IA generativa, IA predictiva, Machine learning, Hype, Valor concreto, modelo, algoritmo,  
 inferencia, entrenamiento, predicción, aprendizaje, supervisado, no supervisado, 
