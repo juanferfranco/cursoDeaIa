@@ -344,7 +344,15 @@ de tu reto?
 En esta actividad vas a socializar y recibir realimentación por parte de todos 
 tus compañeros del entregable de la sesión 1.
 
-#### Actividad 2
+#### Actividad 2 
+
+En esta actividad de quiero compartir un espacio de reflexión.
+
+¿Cómo relacionarnos con la IA?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJVPCKzUKF0?si=GGiAnGmVMyi53qHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Actividad 3
 
 En esta actividad explorarás qué es el aprendizaje robusto.
 
@@ -369,7 +377,7 @@ robusto de cada uno de tus estudiantes?
 * La pregunta anterior no es para desanimarte, más bien es para lanzarte un reto. ¿Cómo podrías 
 lograr que la experiencia de **aprendizaje sea personalizada** para cada estudiante?
 
-#### Actividad 3
+#### Actividad 4
 
 En esta actividad explorarás **cómo diseñar experiencias** que fomenten el aprendizaje robusto.
 
@@ -387,7 +395,7 @@ una mayor recompensa al proceso que al resultado? Lo anterior incluso bajo las r
 curriculares y el modelo de negocio que impone el sistema.
 * ¿Por qué crees que la transferencia del aprendizaje a nuevos contexto o problemas es importante? 
 
-#### Actividad 4
+#### Actividad 5
 
 Te puedo mostrar cómo integro yo el uso de la IA en uno de mis cursos de 
 entretenimiento digital?
@@ -404,7 +412,7 @@ Quiero que notes dos cosas de lo que te acabo de mostrar:
 2. Trato de usar herramientas web para evitar instalar programas en la Universidad.
 
 
-#### Actividad 5
+#### Actividad 6
 
 Te voy a mostrar algunas herramientas interesantes que podrían servirte para tu curso 
 o como inspiración para buscar otras más apropiadas para tus necesidades.
@@ -442,7 +450,7 @@ artificial, pero podría incluirla para hacerla parte del flujo de automatizaci�
     IA generativas como ChatGPT son excelentes para abordar tareas relacionados con el procesamiento 
     del lenguaje. ¿Qué problemas podrían abordar tus estudiantes relacionados con este tipo de tareas?
 
-#### Actividad 6
+#### Actividad 7
 
 Vas a continuar con la fase de indagación del marco CBL. 
 
@@ -454,7 +462,7 @@ curiosidad.
 con tus compañeros los avances que llevas y las dificultades que has tenido. La 
 idea es que con la ayuda de todos puedas ir avanzando en el proceso.
 
-#### Actividad 7
+#### Actividad 8
 
 Vas a socializar los avances de esta sesión con tus compañeros.
 
