@@ -389,6 +389,23 @@ curriculares y el modelo de negocio que impone el sistema.
 
 #### Actividad 4
 
+Te puedo mostrar cómo integro yo el uso de la IA en uno de mis cursos de 
+entretenimiento digital?
+
+Mis estudiantes usan modelos de ML (no es IA generativa) para hacer aplicaciones interactivas como 
+[esta](https://editor.p5js.org/pattvira/sketches/kxhf0tEiW).
+
+Ellos también pueden hacer fine tunning de redes neuronales convolucionales (deep learning) ya entrenadas 
+usando herramientas como [esta](https://teachablemachine.withgoogle.com/train).
+
+Quiero que notes dos cosas de lo que te acabo de mostrar:
+
+1. En mis cursos empleamos modelos de IA y buscamos darle un uso creativo.
+2. Trato de usar herramientas web para evitar instalar programas en la Universidad.
+
+
+#### Actividad 5
+
 Te voy a mostrar algunas herramientas interesantes que podrían servirte para tu curso 
 o como inspiración para buscar otras más apropiadas para tus necesidades.
 
@@ -424,22 +441,6 @@ artificial, pero podría incluirla para hacerla parte del flujo de automatizaci�
     Mira, tal vez tomaste este curso pensando más en IA generativa que en ML clásico. Recuerda que las 
     IA generativas como ChatGPT son excelentes para abordar tareas relacionados con el procesamiento 
     del lenguaje. ¿Qué problemas podrían abordar tus estudiantes relacionados con este tipo de tareas?
-
-#### Actividad 5
-
-Te puedo mostrar cómo integro yo el uso de la IA en uno de mis cursos de 
-entretenimiento digital?
-
-Mis estudiantes usan modelos de ML (no es IA generativa) para hacer aplicaciones interactivas como 
-[esta](https://editor.p5js.org/pattvira/sketches/kxhf0tEiW).
-
-Ellos también pueden hacer fine tunning de redes neuronales convolucionales (deep learning) ya entrenadas 
-usando herramientas como [esta](https://teachablemachine.withgoogle.com/train).
-
-Quiero que notes dos cosas de lo que te acabo de mostrar:
-
-1. En mis cursos empleamos modelos de IA y buscamos darle un uso creativo.
-2. Trato de usar herramientas web para evitar instalar programas en la Universidad.
 
 #### Actividad 6
 
