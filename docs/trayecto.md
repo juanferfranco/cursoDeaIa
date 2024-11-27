@@ -395,9 +395,9 @@ Algunas preguntas de preparación para el video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2lbHG6k2zQ?si=zXNkELZiK4tUD3vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* Retoma de nuevo el ciclo virtuoso del aprendizaje. Puedes proponer para uno de tus cursos un idea 
-general de una experiencia de aprendizaje que fomente el aprendizaje robusto pasando por cada 
-una de las fases del ciclo? ¿Qué ocurriría en cada una de las fases?
+* Retoma de nuevo el [ciclo virtuoso del aprendizaje](https://lectica.org/about/vcol). Puedes proponer 
+para uno de tus cursos un idea general de una experiencia de aprendizaje que fomente el aprendizaje 
+robusto pasando por cada una de las fases del ciclo? ¿Qué ocurriría en cada una de las fases?
 * ¿Cómo puedo diseñar una experiencia de aprendizaje para lograr que el cerebro de mis estudiantes le asignen 
 una mayor recompensa al proceso que al resultado? Lo anterior incluso bajo las restricciones 
 curriculares y el modelo de negocio que impone el sistema.
