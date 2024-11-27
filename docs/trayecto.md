@@ -464,7 +464,7 @@ Vas a socializar los avances de esta sesión con tus compañeros.
 consolidación.
 2. Prepárate para compartir la bitácora de consolidación al inicio de la sesión 3. 
 3. Vas a comenzar, si te queda tiempo, la fase de actuar del marco CBL. En esta fase 
-comenzarás a realizar los entregables de la sesión 3. Usa tu biátacora de documentación o 
+comenzarás a realizar los entregables de la sesión 3. Usa tu bitácora de documentación o 
 si prefieres puedes ir consolidando en la bitácora de consolidación.
 
 ### Entregables
