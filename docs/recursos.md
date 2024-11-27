@@ -77,8 +77,8 @@ Analyze Data in Excel [Website](https://support.microsoft.com/en-us/office/analy
 Create AI Agents in SharePoint & Teams in Just a Few Clicks. [Youtube](https://youtu.be/4K4_r7dSmew?si=VTsFQSfx0K8uCxH6)   
 Challenge-based learning in practice (CBL). [Youtube](https://youtu.be/CFCSvvsPWUA?si=xgv_aEvHon_Lg2sR)    
 Tree-Based Algorithms. [Youtube](https://youtube.com/playlist?list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_&si=ucjdh6uvfLX_jS_i)    
-Creating custom copilot with Copilot Studio based on your files in SharePoint. [Youtube](https://youtu.be/yFCYwIFj3Jg?si=12OlZ-w-0u1k4QWY)    
-
+Creating custom copilot with Copilot Studio based on your files in SharePoint. [Youtube](https://youtu.be/yFCYwIFj3Jg?si=12OlZ-w-0u1k4QWY)  
+All Machine Learning Terms Explained in 22 Minutes.  [Youtube](https://youtu.be/Fa_V9fP2tpU?si=x4nhEn4Y47KK2xez)  
 
 ## Libros
 
