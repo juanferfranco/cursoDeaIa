@@ -346,7 +346,7 @@ tus compañeros del entregable de la sesión 1.
 
 #### Actividad 2 
 
-En esta actividad de quiero compartir un espacio de reflexión.
+En esta actividad te quiero compartir un espacio de reflexión.
 
 ¿Cómo relacionarnos con la IA?
 
