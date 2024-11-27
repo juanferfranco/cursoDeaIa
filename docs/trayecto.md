@@ -449,8 +449,7 @@ Notarás que son pocas instrucciones, por lo cual, la curva de entrada es más a
 [Make.com](https://www.make.com/). Esta herramienta permite automatizar procesos. No usa obligatoriamente inteligencia 
 artificial, pero podría incluirla para hacerla parte del flujo de automatización. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ADpijI_TqnE?si=MbgQHYH4usoEfyME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JSA2oezQWOU?si=w_H-4WtoLjMqZsu3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 !!! tip "Y si lo que quieres es trabajar con IA generativa"
 
