@@ -350,7 +350,15 @@ En esta actividad de quiero compartir un espacio de reflexión.
 
 ¿Cómo relacionarnos con la IA?
 
+El proyecto Me/Machine de Jojo Mayer explora la interacción entre el performance humano y la música generada 
+por máquinas. Este concepto innovador integra la batería tradicional con tecnologías generativas avanzadas, 
+creando un dúo improvisado único en el que tanto el baterista como la máquina influyen mutuamente en sus 
+resultados.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJVPCKzUKF0?si=GGiAnGmVMyi53qHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"La máquina la hace el hombre y es lo que el hombre hace con ella"  
+Jorge Drexler. Canción mi guitarra y vos.
 
 #### Actividad 3
 
