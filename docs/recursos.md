@@ -81,6 +81,7 @@ Creating custom copilot with Copilot Studio based on your files in SharePoint. [
 All Machine Learning Terms Explained in 22 Minutes.  [Youtube](https://youtu.be/Fa_V9fP2tpU?si=x4nhEn4Y47KK2xez)  
 How to Build a Custom GPT for Instructional Design. [Youtube](https://drphilippahardman.substack.com/p/how-to-build-a-custom-gpt-for-instructional)  
 Redesigning Instruction & Assessment in the Age of AI. [Youtube](https://drphilippahardman.substack.com/p/redesigning-instruction-and-assessment)  
+Demo corto con una idea de aplicación. Automatiza Procesos con IA usando Make [Youtube](https://youtu.be/U6LqaXmNMk0?si=S8GxtPXDQoMkkjhd).  
 
 
 
