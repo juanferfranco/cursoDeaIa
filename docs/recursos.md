@@ -84,8 +84,6 @@ Redesigning Instruction & Assessment in the Age of AI. [Youtube](https://drphili
 Demo corto con una idea de aplicación. Automatiza Procesos con IA usando Make [Youtube](https://youtu.be/U6LqaXmNMk0?si=S8GxtPXDQoMkkjhd).  
 
 
-
-
 ## Libros
 
 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build. 
