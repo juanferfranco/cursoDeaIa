@@ -51,7 +51,7 @@ All Machine Learning algorithms explained in 17 min. [Youtube](https://youtu.be/
 ¿Cómo seleccionar el MEJOR MODELO en un problema de Machine Learning? [Youtube](https://youtu.be/HSon9k2-kdw?si=kiDE3K9WVfRZaP2I)  
 Parámetros e hiper-parámetros en el Machine Learning. [Youtube](https://youtu.be/3Iu5m166rnE?si=xml5_G_CKUAbRphN)  
 ¿Qué es el GRADIENTE DESCENDENTE?. [Youtube](https://youtu.be/IKloEocn3Hw?si=druGLBcdp3VKlIIZ)  
-La REGRESIÓN LINEAL en el Machine Learning. [Youtube](https://youtu.be/hutg0JpDbPY?si=ZAvpeSnvAcjs7p9M)
+La REGRESIÓN LINEAL en el Machine Learning. [Youtube](https://youtu.be/hutg0JpDbPY?si=ZAvpeSnvAcjs7p9M)  
 Los sets de entrenamiento, validación y prueba. [Youtube](https://youtu.be/79K93XBOsIg?si=2oRL0I41wI8PuUxB)  
 Validación cruzada y k-fold cross-validation. [Youtube](https://youtu.be/bpZa2mAiXS8?si=xucUVf6al01Vi4AP)  
 Tinker With a Neural Network Right Here in Your Browser. Herramienta didáctica para comprender las redes neuronales. 
@@ -79,6 +79,11 @@ Challenge-based learning in practice (CBL). [Youtube](https://youtu.be/CFCSvvsPW
 Tree-Based Algorithms. [Youtube](https://youtube.com/playlist?list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_&si=ucjdh6uvfLX_jS_i)    
 Creating custom copilot with Copilot Studio based on your files in SharePoint. [Youtube](https://youtu.be/yFCYwIFj3Jg?si=12OlZ-w-0u1k4QWY)  
 All Machine Learning Terms Explained in 22 Minutes.  [Youtube](https://youtu.be/Fa_V9fP2tpU?si=x4nhEn4Y47KK2xez)  
+How to Build a Custom GPT for Instructional Design. [Youtube](https://drphilippahardman.substack.com/p/how-to-build-a-custom-gpt-for-instructional)  
+Redesigning Instruction & Assessment in the Age of AI. [Youtube](https://drphilippahardman.substack.com/p/redesigning-instruction-and-assessment)  
+
+
+
 
 ## Libros
 
