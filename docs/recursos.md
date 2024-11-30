@@ -44,6 +44,7 @@
 [Perplexity](https://www.perplexity.ai/). Buscador potenciado con IA generativa.  
 [Research Rabbit](https://www.researchrabbitapp.com/). Herramienta de ayuda para la investigación.  
 [Connected Papers](https://www.connectedpapers.com/). Explora los trabajos académicos en un gráfico visual.  
+[Macro](https://macro.com/). Comprenda al instante documentos complejos con IA  
 
 
 ## Recursos por temas
