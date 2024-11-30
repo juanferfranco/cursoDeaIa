@@ -42,6 +42,8 @@
 [Futuretools](https://www.futuretools.io/). Buscador de herramientas por categorías.  
 [Gamma](https://gamma.app/). Generador de presentaciones.
 [Perplexity](https://www.perplexity.ai/). Buscador potenciado con IA generativa.  
+[Research Rabbit](https://www.researchrabbitapp.com/). Herramienta de ayuda para la investigación.  
+[Connected Papers](https://www.connectedpapers.com/). Explora los trabajos académicos en un gráfico visual.  
 
 
 ## Recursos por temas
