@@ -583,6 +583,11 @@ tus compañeros del entregable de la sesión 3.
 
 #### Actividad 2
 
+Reflexión IMPORTANTE. Miremos juntos el resumen de [este](https://www.pnas.org/doi/full/10.1073/pnas.1821936116) 
+estudio.
+
+#### Actividad 3
+
 En esta actividad vamos a conversar sobre los resultados del curso hasta ahora, 
 cómo te has sentido y cómo crees que podríamos mejorar este curso a futuro.
 
