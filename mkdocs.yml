@@ -4,6 +4,7 @@ nav:
   - Introducción: index.md
   - Diseño del curso: design.md
   - Trayecto de actividades: trayecto.md
+  - Proyectos en curso: projects.md
   - Recursos: recursos.md
 theme:
   name: material
